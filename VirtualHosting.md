@@ -27,11 +27,11 @@ Copiamos el archivo default que nos servirá como ejemplo y lo modificamos
 
 ### 4.Comprobamos que la configuración es correcta
 
-![10.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/10.PNG)
+![12.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/12.PNG)
 
 ### 5.Procedemos a habilitar los sitios virtuales con un enlace duro hacia la siguiente ruta:
 
-![11.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/11.PNG)
+![18.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/18.PNG)
 
 ### 6.Reiniciamos el servicio para que se aplique la configuración:
 
@@ -41,8 +41,8 @@ Copiamos el archivo default que nos servirá como ejemplo y lo modificamos
 
 * Cliente de la **Red Interna: (192.168.3.10)**:
 
-![12.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/12.PNG)
+![10.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/10.PNG)
 
 * Cliente con **Adaptador Puente**:
 
-![13.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/13.PNG)
+![11.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/11.PNG)
