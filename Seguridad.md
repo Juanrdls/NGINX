@@ -28,7 +28,7 @@ Para ello debemos introducir la frase que nos pidió en el paso 1
 
 ![40.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/40.PNG)
 
-### 6.Configuramos el sitio virtual para que se active la navegación segura
+### 6.Configuramos el sitio virtual para que se active la navegación segura:
 
 ![41.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/41.PNG)
 
