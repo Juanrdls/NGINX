@@ -46,3 +46,9 @@ Copiamos el archivo default que nos servirá como ejemplo y lo modificamos
 * Cliente con **Adaptador Puente**:
 
 ![11.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/11.PNG)
+
+### 8.Comprobaciones:
+
+![14.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/14.PNG)
+
+![15.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/15.PNG)
