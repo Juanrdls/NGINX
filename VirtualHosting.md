@@ -27,11 +27,11 @@ Copiamos el archivo default que nos servirá como ejemplo y lo modificamos
 
 ### 4.Comprobamos que la configuración es correcta
 
-![12.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/12.PNG)
+![18.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/18.PNG)
 
 ### 5.Procedemos a habilitar los sitios virtuales con un enlace duro hacia la siguiente ruta:
 
-![18.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/18.PNG)
+![12.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/12.PNG)
 
 ### 6.Reiniciamos el servicio para que se aplique la configuración:
 
