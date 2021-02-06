@@ -1,13 +1,13 @@
 # NGINX
 
-## 1.-Introduccion:
+# DESCRIPCIÓN:
+En este proyecto investigaremos sobre NGINX y crearemos varios virtual hosting que se basaran en lo que nos pida los diferentes ejercicios propuestos en la tarea:
 
-## 2.-Comparativa con Apache:
+# 1.-ÍNDICE
+1. -[Introducción]
+2. -[Comparativa con respecto Apache]
+3. -[Esquema de red]
+4. -[Instalación]
+5. -[Casos Practicos]
 
-## 3.-Esquema de Red:
-
-## 4.-Instalacion:
-
-## 5.-Casos Practicos
-
-## 6.-Referencias
+# Referencias
