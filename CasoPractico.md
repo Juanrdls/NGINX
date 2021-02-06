@@ -15,4 +15,4 @@ Aquí vamos a mostrar las practicas que se nos han pedido:
 
 * [Ejercicio 3](https://github.com/Juanrdls/NGINX/blob/main/Ejercicio3.md)
 
-## 5. -[Seguridad]
+## 5. -[Seguridad](https://github.com/Juanrdls/NGINX/blob/main/Seguridad.md)
