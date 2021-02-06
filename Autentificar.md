@@ -38,6 +38,6 @@ A esta página solo podrá acceder las ip que vengan de la red 3.0 y deniega las
 
 * **Cliente de red interna:** --> Podrá acceder a **ambas** páginas
 
-![21.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/21.PNG)
+![21.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/20.PNG)
 
 ![15.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/15.PNG)
