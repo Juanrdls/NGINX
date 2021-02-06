@@ -9,10 +9,10 @@ Aquí vamos a mostrar las practicas que se nos han pedido:
 ## 3. -[Virtual Hosting](https://github.com/Juanrdls/NGINX/blob/main/VirtualHosting.md)
 
 ## 4.- Autentificar, Autorización y Control de Acceso
-* [Ejercicio 1]
+* [Autentificar]()
 
-* [Ejercicio 2]
+* [Autorización]()
 
-* [Ejercicio 3]
+* [Control de Acceso]()
 
 ## 5. -[Seguridad]
