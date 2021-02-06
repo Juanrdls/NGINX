@@ -6,7 +6,7 @@ Aquí vamos a mostrar las practicas que se nos han pedido:
 
 ## 2. -[Modificar Página por Defecto](https://github.com/Juanrdls/NGINX/blob/main/Modificar.md)
 
-## 3. -[Virtual Hosting]
+## 3. -[Virtual Hosting](https://github.com/Juanrdls/NGINX/blob/main/VirtualHosting.md)
 
 ## 4.- Autentificar, Autorización y Control de Acceso
 * [Ejercicio 1]
