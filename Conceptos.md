@@ -5,7 +5,7 @@
 
 ## 2.Servicios asociados:
 
-**Reiniciar Servicios** ---> ``` systemctl restart nginx ````
+**Reiniciar Servicios** ---> ``` systemctl restart nginx ```
 
 **Recargar Servicio** ---> ``` systemctl reload nginx ```
 
