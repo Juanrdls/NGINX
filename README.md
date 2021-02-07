@@ -13,3 +13,9 @@ En este proyecto investigaremos sobre NGINX y crearemos varios virtual hosting q
 # REFERENCIAS:
 
 [Apche vs NGINX](https://www.hostinger.es/tutoriales/que-usar-nginx-vs-apache/)
+
+[Jesús Romero](https://github.com/jesusromero92/NGINX)
+
+[Jose Manuel Carrascal](https://github.com/josemaa/nginx)
+
+Conocimientos propios después de estudiar Apache
