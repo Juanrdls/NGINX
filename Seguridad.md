@@ -36,6 +36,10 @@ Para ello debemos introducir la frase que nos pidió en el paso 1
 
 ![18.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/18.PNG)
 
+**Reiniciamos el Sistema**
+
+``` systemctl restart nginx ```
+
 ### 8.Comprobaciones
 
 
