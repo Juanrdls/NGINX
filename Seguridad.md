@@ -42,4 +42,6 @@ Para ello debemos introducir la frase que nos pidió en el paso 1
 
 ### 8.Comprobaciones
 
+![43.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/43.PNG)
 
+![44.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/44.PNG)
