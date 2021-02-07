@@ -13,7 +13,7 @@ acceder a una de ellas:
 A esta página solo podrá acceder las IP que provengan de la red 1.0 y 3.0 **La opción "Deny all" es
 opcional**:
 
-![16.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/correcion1.PNG)
+![correccion.png](https://github.com/Juanrdls/NGINX/blob/main/Capturas/correccion1.PNG)
 
 * WEB 2:
 A esta página solo podrá acceder las ip que vengan de la red 3.0 y deniega las demás conexiones
