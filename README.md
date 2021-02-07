@@ -11,3 +11,5 @@ En este proyecto investigaremos sobre NGINX y crearemos varios virtual hosting q
 5. -[Casos Practicos](https://github.com/Juanrdls/NGINX/blob/main/CasoPractico.md)
 
 # REFERENCIAS:
+
+[Apche vs NGINX](https://www.hostinger.es/tutoriales/que-usar-nginx-vs-apache/)
